@@ -1,0 +1,30 @@
+Lógica de programação:
+    Oque faz o desenvolvedor:
+        -Produto -> paga o meu salário
+            desenvolver e manter o produto -> meu trabalho
+            FRONT
+            BACK-END
+            MOBILE
+            DESKTOP
+
+    Como desenvolver um sistema ?
+        Levantamento de requisitos
+        Desenvolvimento de um sistema de geração de relatórios
+            Buscar os dados
+            Processar os dados
+                como processar ?
+                quais dados processar ?              
+            Criar PDF com os dados
+        Banco de dados
+            armazenar e manipular dados
+        Tipo de dados
+            texto -> strings
+            numeros inteiros -> number ->int 
+            Flags - boolean -> true or false (verdadeiro ou falso)
+            numeros com casas decimais - float -> 10.00 , 10.50 , 15.60
+            Data -> date
+            Objeto -> Object        
+
+
+            3235-3300
+            (14)996484958
