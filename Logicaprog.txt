@@ -23,8 +23,37 @@ Lógica de programação:
             Flags - boolean -> true or false (verdadeiro ou falso)
             numeros com casas decimais - float -> 10.00 , 10.50 , 15.60
             Data -> date
-            Objeto -> Object        
+            Objeto -> Object
+            ARRAY - Agrupamento separado por virgula
 
+            [
+                {
+                    nome: "Andre",
+                    email: "andrecurydealmeida@gmail.com",
+                    telefone: "(14)99999-9999",
+                    ativo: true,
+                    data_de_inscricao: "10/05/2025"
+                },
+                
+                {
+                    nome: "Ana",
+                    email: "anacury@gmail.com",
+                    telefone: "(14)99999-9998",
+                    ativo: false,
+                    data_de_inscricao: "10/04/2025"
+                }
+            ]
 
-            3235-3300
-            (14)996484958
+            chave: "valor"
+
+            relatórios
+                id - string | number
+                nome - strng (texto)
+                data - date(data)
+                dados_alunos - {
+                    nome: "Andre",
+                    email: "andrecurydealmeida@gmail.com",
+                    telefone: "(14)99999-9999",
+                    ativo: true,
+                    data_de_inscricao: "10/05/2025"
+                }
